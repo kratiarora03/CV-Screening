@@ -16,7 +16,7 @@ This repository contains a full-stack web application that enables users to subm
 1) React.js for building the user interface. <br>
 2) Axios for making HTTP requests to the backend.<br>
 
-# Screenshots
+# Screenshot
 
 <img width="750" alt="Screenshot 2023-08-11 130816" src="https://github.com/sanyam40/CVSkillsScreeningApp/assets/87993985/01acaafa-dd8d-4221-ab4a-621cd3f533a0">
 <img width="750" alt="Screenshot 2023-08-13 165727" src="https://github.com/sanyam40/CVSkillsScreeningApp/assets/87993985/dcda9e04-5b3c-4f32-9fe0-759465d95214">
